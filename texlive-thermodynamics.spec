@@ -1,6 +1,6 @@
 Name:		texlive-thermodynamics
 Version:	63188
-Release:	1
+Release:	2
 Summary:	Macros for multicomponent thermodynamics documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thermodynamics
