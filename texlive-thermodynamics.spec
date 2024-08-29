@@ -1,5 +1,5 @@
 Name:		texlive-thermodynamics
-Version:	69086
+Version:	71522
 Release:	1
 Summary:	Macros for multicomponent thermodynamics documents
 Group:		Publishing
