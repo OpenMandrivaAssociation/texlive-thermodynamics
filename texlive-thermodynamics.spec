@@ -3,7 +3,7 @@ Version:	71522
 Release:	1
 Summary:	Macros for multicomponent thermodynamics documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thermodynamics
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thermodynamics
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thermodynamics.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thermodynamics.doc.r%{version}.tar.xz
